@@ -1,0 +1,26 @@
+.centre-block { 
+ 	background: white;
+ 	padding: 40px 30px;
+  }
+
+body { 
+	min-width: 700px;
+	background-color: white;
+	border-style: dashed;
+ }
+
+.btn {
+	margin: 0.5px 0.5px;
+	padding: 5px 5px;
+
+}
+
+img {
+	float: left;
+	position: relative;
+	top: -37px;
+}
+
+h1 {
+	padding-left: 125px;
+}

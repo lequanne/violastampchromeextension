@@ -1,0 +1,17 @@
+{
+  "name": "Viola's Stamp",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Welcome to Viola's Stamp, a guide to where Viola might've gone to support Black businesses in Toronto.",
+  "icons": { "16":"viola.png",
+             "48":"viola.png", 
+             "128":"viola.png"
+  },
+  "browser_action": {
+    "default_icon": "viola.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
