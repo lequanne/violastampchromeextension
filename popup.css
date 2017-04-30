@@ -1,12 +1,8 @@
-.centre-block { 
- 	background: white;
- 	padding: 40px 30px;
-  }
-
 body { 
 	background: url("images/violasenvelope1.png");
 	min-width: 200px;
- }
+
+}
 .centre-block {
 	margin-top: 19px;
 	margin-left: 9px;
@@ -37,11 +33,11 @@ body {
   outline: none;
   text-decoration: none;
 }
+
 p {
 	padding-top: 10px;
 	padding-left: 60px;
 }
-
 .btn {
 	margin-top: 10px;
 	margin-right: 10px;
