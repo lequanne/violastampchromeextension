@@ -3,5 +3,5 @@ Locations can be added to the map by simply entering an address in the search ba
 Canadian directories and feel free to message us suggestions and additions <a href="https://www.mypaere.com/contact-us">here</a>. 
 Brought to you by the <a href="https://www.mypaere.com"> PAERE</a> team.
 
-Screenshot 
+<a href="voilascreenshot">Screenshot</a>
 
