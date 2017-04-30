@@ -4,23 +4,80 @@
   }
 
 body { 
-	min-width: 700px;
-	background-color: white;
-	border-style: dashed;
+	background: url("images/violasenvelope1.png");
+	min-width: 200px;
  }
-
-.btn {
-	margin: 0.5px 0.5px;
-	padding: 5px 5px;
-
+.centre-block {
+	margin-top: 19px;
+	margin-left: 9px;
+	margin-right: 9px;
+	background: rgba(255, 255, 255, 0.4);
+	width: 200px;
+}
+.envelope {
+	background-image: url("/violasenvelope1.png") cover;
 }
 
-img {
-	float: left;
-	position: relative;
-	top: -37px;
+.btn {
+  width: 180px;
+  padding: 8px;
+  color: #aaa;
+  border: 1px solid #aaa;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+
+.btn:hover {
+  width: 180px;
+  padding: 8px;
+  color: #aaa;
+  border: 1px solid #aaa;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+p {
+	padding-top: 10px;
+	padding-left: 60px;
+}
+
+.btn {
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 2px;
+	padding: 5px 5px;
+	font-family: Helvetica;
+}
+.btn-block {
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.btn-outline-secondary {
+	border: 1px solid gray;
+	color: #gray;
+}
+
+.btn-outline-secondary:hover {
+	border-color: #33a6cc;
+	background-color: #fbfeff;
+}
+
+#top {
+	margin-top: 10px;
 }
 
 h1 {
-	padding-left: 125px;
+  font: 100 35px/0.8 'Great Vibes', Helvetica, sans-serif;
+  color: #fff;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.2);
+  margin-left: 60px;
+}
+p {
+  font: 10 5px/0.8 'Great Vibes', Helvetica, sans-serif;
+  color: #fff;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+  padding: 10px;
+  margin-left: 30px;
 }
