@@ -16,7 +16,8 @@ body {
 
 .btn {
   width: 180px;
-  padding: 8px;
+  padding: 8px 8px;
+  margin: 8px 8px;
   color: #aaa;
   border: 1px solid #aaa;
   text-align: center;
@@ -37,20 +38,6 @@ body {
 p {
 	padding-top: 10px;
 	padding-left: 60px;
-}
-
-.btn-block {
-	margin-right: 20px;
-	margin-left: 20px;
-}
-.btn-outline-secondary {
-	border: 1px solid gray;
-	color: #gray;
-}
-
-.btn-outline-secondary:hover {
-	border-color: #33a6cc;
-	background-color: #fbfeff;
 }
 
 #top {
