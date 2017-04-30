@@ -1,0 +1,18 @@
+{
+  "name": "Viola's Stamp",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Welcome to Viola's Stamp, a guide to where Viola might've gone to support Black businesses in Toronto. Locations can be added to the community map by simply entering an address in the search bar. The original idea for this extension came from the Black Toronto Facebook group.",
+  "icons": { "16":"images/viola.png",
+             "48":"images/viola.png", 
+             "128":"images/viola.png"
+  },
+  "browser_action": {
+    "default_icon": "images/viola.png",
+    "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "tabs"
+  ]
+}
