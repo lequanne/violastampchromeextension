@@ -1,6 +1,6 @@
 {
   "name": "Viola's Stamp",
-  //this version and manifest version are only one's which work for chrome extension, other versions doe not upload to the store. 
+  */this version and manifest version are only one's which work for chrome extension, other versions doe not upload to the store./* 
   "version": "1.0",
   "manifest_version": 2,
   "description": "Welcome to Viola's Stamp, a guide to where Viola might've gone to support Black businesses in Toronto. Locations can be added to the community map by simply entering an address in the search bar. The original idea for this extension came from the Black Toronto Facebook group.",
