@@ -3,4 +3,4 @@ Coded by Lequanne as a<a href="https://www.mypaere.com"> PAERE</a> project.
 
 This Chrome extension is available for free in the store, link <a href="https://chrome.google.com/webstore/detail/violas-stamp/ckmkjpbimafpnjicpgdmhiimojdekpnk?utm_source=gmail">here</a>.
 
-The manifest.json file should not need to be changed. 
+Actively accepting changes as of April 30th. The manifest.json file should not need to be changed though. 
